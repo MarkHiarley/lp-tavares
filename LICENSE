@@ -1,0 +1,93 @@
+LICENSE — LP TAVARES ODONTOLOGIA
+===============================
+
+Copyright (c) 2026 MarkHiarley <hiarleycostamarley@gmail.com>
+All rights reserved.
+
+This file governs the use of the source code, structure, layout, styles and
+scripts of this website (index.html, styles.css, script.js, vercel.json and
+every other file in this repository — hereinafter "the Software").
+
+The Software is NOT free software. No permission is granted beyond what is
+expressly described below.
+
+
+1. PERMITTED USE WITHOUT AUTHORIZATION
+--------------------------------------
+
+The following is permitted without prior authorization:
+
+  a) reading, studying and running the Software locally for personal,
+     academic or evaluation purposes;
+
+  b) modifying the Software for strictly NON-commercial personal use.
+
+The permission above does NOT authorize publishing, deploying or commercially
+exploiting the Software in any way.
+
+
+2. COMMERCIAL USE REQUIRES PERMISSION
+-------------------------------------
+
+Any commercial use of the Software requires prior, express written
+authorization from the copyright holder. "Commercial use" includes, but is
+not limited to:
+
+  a) publishing, hosting or making the Software (or a modified version)
+     available on a website, landing page, application or service accessible
+     to third parties for commercial or institutional purposes, or for
+     customer acquisition;
+
+  b) using the Software, in whole or in part, as a product, service, template,
+     theme or component that is sold, resold, licensed or distributed to third
+     parties;
+
+  c) integrating the Software into a client, agency, freelance or any other
+     paid services project;
+
+  d) using the styles, layout or scripts as the basis for another commercial
+     project.
+
+To request permission, send a written request describing the intended use to:
+hiarleycostamarley@gmail.com. Authorization is only valid when expressly
+granted by the copyright holder, and may be conditioned on compensation,
+attribution or scope limits.
+
+
+3. RESTRICTIONS
+---------------
+
+Without written authorization, you may not:
+
+  a) redistribute, sublicense, sell, rent or otherwise transfer the Software;
+
+  b) remove, obscure or alter this license file, the copyright notices or the
+     authorship credits;
+
+  c) claim authorship of the Software or any part of it.
+
+
+4. THIRD-PARTY CONTENT
+----------------------
+
+The "Tavares Odontologia" brand, its logo, the photographs under
+public/images/tavares-odontologia/ and the institutional copy belong to
+Tavares Odontologia and are NOT covered by the permission described in
+Section 1. No rights over such content are granted by this file.
+
+
+5. NO WARRANTY
+--------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+
+6. GOVERNING LAW
+----------------
+
+This license is governed by the laws of the Federative Republic of Brazil.
